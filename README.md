@@ -1,53 +1,48 @@
-# Olá, eu sou a Rebeca Vilas Boas! 👋  
-### 🧬 Cientista de Dados Júnior | Machine Learning & Bioinformática
+# Olá! 👋
 
-Sou Técnica em Informática pelo **IFBA** e graduanda em **Sistemas de Informação** na **UNEB**.
+- 👩‍💻 Eu sou **Rebeca Vilas Boas**
+  Estudante de **Sistemas de Informação na UNEB** e **Técnica em Informática pelo IFBA**.
 
-Atualmente, atuo como pesquisadora no grupo **G2BC (UNEB)**, onde aplico **Python** e **Bioinformática** para análises preditivas e interpretação de dados biológicos.  
-Tenho paixão por transformar dados brutos em **insights estratégicos**, utilizando automação e modelagem estatística.
+- 💼 Atualmente, atuo como **Jovem Aprendiz em Suporte de TI no Grupo GPS**, adquirindo experiência prática em infraestrutura, suporte ao usuário e ferramentas tecnológicas.
 
----
+- 🔬 Também participo de **pesquisa acadêmica**, com foco em **Análise de Dados, Machine Learning, IA e Bioinformática**, aplicando Python para extração de insights e construção de análises preditivas.
 
-## 🏆 Projeto em Destaque
+- 💡 Meus principais interesses incluem **Ciência de Dados, Inteligência Artificial, Machine Learning e automação**, especialmente em projetos que transformam dados brutos em apoio estratégico à tomada de decisão.
 
-### 📉 [RH Analytics: Churn Prediction](https://github.com/RebecaVBoas/RH-Analytics-Churn-Prediction)
-
-Desenvolvimento de modelo preditivo para identificar a rotatividade de funcionários.
-
-- **Tech:** Python, Pandas, Scikit-learn  
-- **Impacto:** Análise exploratória de dados e aplicação de algoritmos de Machine Learning para apoio à tomada de decisão.
+- 🧠 Sou uma aprendiz autodidata, com fortes habilidades de resolução de problemas, trabalho em equipe, comunicação eficaz e mentalidade de melhoria contínua.
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🧪 Portfólio em Ciência de Dados & IA 📊
 
-### 📊 Ciência de Dados & IA
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="NumPy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="center" alt="Scikit-learn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-</div>
+Aqui você encontra projetos envolvendo **análise de dados, modelos de machine learning e resolução de problemas reais**, incluindo análises exploratórias e modelagem preditiva.
 
-### 🗄️ Banco de Dados & Back-end
-<div style="display: inline_block">
-  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-</div>
+### 📉 Projeto em Destaque
+- **[RH Analytics – Churn Prediction](https://github.com/RebecaVBoas/RH-Analytics-Churn-Prediction)**  
+  Modelo preditivo para identificar padrões de rotatividade de funcionários utilizando técnicas de Machine Learning.
 
 ---
 
-## 🔭 O que estou fazendo agora
+## 🛠️ Hard Skills
 
-- 🔬 **Pesquisando:** Bioinformática e análise de sequências genéticas no G2BC  
-- ⚙️ **Automatizando:** Scripts em Python para limpeza, tratamento e integração de dados (ETL)  
-- 📚 **Estudando:** Modelagem de Dados, Machine Learning e Metodologias Ágeis  
+- **Programação & Dados:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Machine Learning:** Scikit-learn (classificação, regressão, análise exploratória)  
+- **Bancos de Dados:** MySQL, MongoDB  
+- **Visualização de Dados:** Power BI  
+- **Back-end & Outros:** Java, Spring Boot, Git & GitHub  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Foco Atual
+
+- 🔬 Estudando **Bioinformática e análise preditiva de dados**  
+- ⚙️ Desenvolvendo **scripts em Python para limpeza, ETL e automação de dados**  
+- 📚 Aprofundando conhecimentos em **Machine Learning, Modelagem de Dados e Metodologias Ágeis**
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RebecaVBoas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVBoas&layout=compact&theme=dracula"/>
@@ -55,7 +50,7 @@ Desenvolvimento de modelo preditivo para identificar a rotatividade de funcioná
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rebeca_Vilas_Boas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rebecavboas)  
-[![Email](https://img.shields.io/badge/Email-Fale_Comigo-c14438?style=flat-square&logo=gmail)](mailto:rebecavilasboasdejesus1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rebecavboas](https://www.linkedin.com/in/rebecavboas)  
+- ✉️ Email: rebecavilasboasdejesus1@gmail.com
