@@ -41,15 +41,6 @@ Aqui você encontra projetos envolvendo **análise de dados, modelos de machine 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RebecaVBoas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVBoas&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Vamos nos conectar!
 
 - 💼 LinkedIn: [linkedin.com/in/rebecavboas](https://www.linkedin.com/in/rebecavboas)  
