@@ -9,7 +9,7 @@
 
 - 💡 Meus principais interesses incluem **Ciência de Dados, Inteligência Artificial, Machine Learning e automação**, especialmente em projetos que transformam dados brutos em apoio estratégico à tomada de decisão.
 
-- 🧠 Sou uma aprendiz autodidata, com fortes habilidades de resolução de problemas, trabalho em equipe, comunicação eficaz e mentalidade de melhoria contínua.
+- 🧠 Sou uma aprendiz, com fortes habilidades de resolução de problemas, trabalho em equipe, comunicação eficaz e mentalidade de melhoria contínua.
 
 ---
 
