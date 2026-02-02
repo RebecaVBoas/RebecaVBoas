@@ -18,6 +18,8 @@
 Aqui você encontra projetos envolvendo **análise de dados, modelos de machine learning e resolução de problemas reais**, incluindo análises exploratórias e modelagem preditiva.
 
 ### 📉 Projeto em Destaque
+- **[Telco Custumer – Churn Prediction](https://github.com/RebecaVBoas/Telco-Customer-Churn-Prediction)**
+  Modelo preditivo para identificar variávies envolvidas no cancelamento do serviço em uma empresa de telecomunicações. 
 - **[RH Analytics – Churn Prediction](https://github.com/RebecaVBoas/RH-Analytics-Churn-Prediction)**  
   Modelo preditivo para identificar padrões de rotatividade de funcionários utilizando técnicas de Machine Learning.
 
